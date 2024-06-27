@@ -1,0 +1,26 @@
+body {
+	font-family: serif;
+	margin: 20 px;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.mensagem {
+	margin-bottom: 20 px;
+	color:#e5e7eb;
+}
+
+.mensagem .user {
+	font-weight: bold;
+	font-size: 1.5em;
+	color:#525b6b;
+}
+
+.mensagem .data {
+	color:#525b6b;
+}
+
+img, video {
+	max-width: 100%;
+	margin-top: 10px;
+}
